@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299206500088",
+    "project_id": "watercup-985b1",
+    "storage_bucket": "watercup-985b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299206500088:android:28d32b1aae987ecfd6a50d",
+        "android_client_info": {
+          "package_name": "com.example.water_cup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299206500088-hdv8hpng7akps901dsj59v3ecjpiug8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosB1LLQVVyo7naDPBbTPIvLTOAqPMU0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299206500088-hdv8hpng7akps901dsj59v3ecjpiug8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
